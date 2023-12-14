@@ -1,0 +1,215 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "username": "johndoe",
+        "email": "john.doe@example.com",
+        "address": {
+          "street": "123 Main St",
+          "suite": "Apt 45",
+          "city": "Cityville",
+          "zipcode": "12345",
+          "geo": {
+            "lat": "-34.567",
+            "lng": "56.789"
+          }
+        },
+        "phone": "555-1234",
+        "company": {
+          "name": "Tech Solutions Inc",
+          "website": "http://www.techsolutions.com"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "username": "janesmith",
+        "email": "jane.smith@example.com",
+        "address": {
+          "street": "456 Oak St",
+          "suite": "Apt 67",
+          "city": "Townsville",
+          "zipcode": "23456",
+          "geo": {
+            "lat": "-12.345",
+            "lng": "78.901"
+          }
+        },
+        "phone": "555-5678",
+        "company": {
+          "name": "Data Innovators LLC",
+          "website": "http://www.datainnovators.com"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "username": "bobjohnson",
+        "email": "bob.johnson@example.com",
+        "address": {
+          "street": "789 Pine St",
+          "suite": "Apt 89",
+          "city": "Villageland",
+          "zipcode": "34567",
+          "geo": {
+            "lat": "23.456",
+            "lng": "-45.678"
+          }
+        },
+        "phone": "555-9876",
+        "company": {
+          "name": "Code Wizards Ltd",
+          "website": "http://www.codewizards.com"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Alice Williams",
+        "username": "alicewilliams",
+        "email": "alice.williams@example.com",
+        "address": {
+          "street": "101 Cedar St",
+          "suite": "Apt 12",
+          "city": "Hamlet City",
+          "zipcode": "45678",
+          "geo": {
+            "lat": "45.678",
+            "lng": "12.345"
+          }
+        },
+        "phone": "555-4321",
+        "company": {
+          "name": "Innovate Tech Solutions",
+          "website": "http://www.innovatetech.com"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Charlie Davis",
+        "username": "charliedavis",
+        "email": "charlie.davis@example.com",
+        "address": {
+          "street": "202 Birch St",
+          "suite": "Apt 34",
+          "city": "Township",
+          "zipcode": "56789",
+          "geo": {
+            "lat": "67.890",
+            "lng": "23.456"
+          }
+        },
+        "phone": "555-8765",
+        "company": {
+          "name": "Digital Dynamics Inc",
+          "website": "http://www.digitaldynamics.com"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Eva Brown",
+        "username": "evabrown",
+        "email": "eva.brown@example.com",
+        "address": {
+          "street": "303 Maple St",
+          "suite": "Apt 56",
+          "city": "Village",
+          "zipcode": "67890",
+          "geo": {
+            "lat": "-56.789",
+            "lng": "67.890"
+          }
+        },
+        "phone": "555-1357",
+        "company": {
+          "name": "Inventive Solutions Ltd",
+          "website": "http://www.inventivesolutions.com"
+        }
+      },
+      {
+        "id": 7,
+        "name": "David Wilson",
+        "username": "davidwilson",
+        "email": "david.wilson@example.com",
+        "address": {
+          "street": "404 Elm St",
+          "suite": "Apt 78",
+          "city": "Hamlet",
+          "zipcode": "78901",
+          "geo": {
+            "lat": "12.345",
+            "lng": "34.567"
+          }
+        },
+        "phone": "555-2468",
+        "company": {
+          "name": "Code Crafters Inc",
+          "website": "http://www.codecrafters.com"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Grace Miller",
+        "username": "gracemiller",
+        "email": "grace.miller@example.com",
+        "address": {
+          "street": "505 Pine St",
+          "suite": "Apt 90",
+          "city": "Town",
+          "zipcode": "89012",
+          "geo": {
+            "lat": "34.567",
+            "lng": "-56.789"
+          }
+        },
+        "phone": "555-7890",
+        "company": {
+          "name": "Tech Innovators LLC",
+          "website": "http://www.techinnovators.com"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Frank Moore",
+        "username": "frankmoore",
+        "email": "frank.moore@example.com",
+        "address": {
+          "street": "606 Cedar St",
+          "suite": "Apt 23",
+          "city": "City",
+          "zipcode": "90123",
+          "geo": {
+            "lat": "56.789",
+            "lng": "45.678"
+          }
+        },
+        "phone": "555-6543",
+        "company": {
+          "name": "Data Dynamics Ltd",
+          "website": "http://www.datadynamics.com"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Helen Taylor",
+        "username": "helentaylor",
+        "email": "helen.taylor@example.com",
+        "address": {
+          "street": "707 Oak St",
+          "suite": "Apt 45",
+          "city": "Village",
+          "zipcode": "01234",
+          "geo": {
+            "lat": "-23.456",
+            "lng": "12.345"
+          }
+        },
+        "phone": "555-3210",
+        "company": {
+          "name": "Innovate Solutions Inc",
+          "website": "http://www.innovatesolutions.com"
+        }
+      }
+    ]
+  }
+  

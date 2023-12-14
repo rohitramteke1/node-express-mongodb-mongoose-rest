@@ -1,0 +1,1 @@
+adding data into the read.txt fileappended the data successfully.
